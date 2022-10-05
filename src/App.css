@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.colorBlock {
+  width: 300px;
+  height: 300px;
+}
+
+.answers {
+  margin: 24px 0;
+}
+
+.correct {
+  color: green;
+}
+
+.wrong {
+  color: red;
+}
